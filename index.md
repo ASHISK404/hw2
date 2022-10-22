@@ -7,7 +7,7 @@
         <meta>
     </head>
     <body
-    background="https://github.com/ASHISK404/ASHISK404.github.io/blob/main/2.jpg">
+    background="https://github.com/ASHISK404/ASHISK404.github.io/blob/main/img/2.jpg">
         <p>
             Hello,this is me</p>
         <p>
@@ -17,7 +17,7 @@
 
         </p>
         <div>
-            <img src="https://github.com/ASHISK404/ASHISK404.github.io/blob/main/52a323f207aab8d1.jpg"width=100px>
+            <img src="https://github.com/ASHISK404/ASHISK404.github.io/blob/main/img/52a323f207aab8d1.jpg"width=100px>
         </div>
         <p>
             <ol>
