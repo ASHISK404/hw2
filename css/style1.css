@@ -1,0 +1,17 @@
+body{
+    background-image: url("../img/w.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#ww{
+    background-color: rgba(100, 212, 14, 0.5);
+    ;
+}
+#kuang1{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    font-size: 30px;
+    border-color: aqua blue black red  ;
+}
